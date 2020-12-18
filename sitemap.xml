@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>/projects/photography/</loc>
+  </url>
+  
+  <url>
+    <loc>/projects/design/</loc>
+  </url>
+  
+  <url>
+    <loc>/projects/writing/</loc>
+  </url>
+  
+  <url>
+    <loc>/projects/</loc>
+  </url>
+  
+  <url>
+    <loc>/blog/</loc>
+    <lastmod>2018-06-25T12:01:45-02:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/coffee/</loc>
+    <lastmod>2018-06-25T12:01:45-02:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/images/</loc>
+    <lastmod>2018-06-25T12:01:45-02:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2018-06-25T12:01:45-02:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/ipsum/</loc>
+    <lastmod>2018-06-25T12:01:45-02:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/love-yourself/</loc>
+    <lastmod>2018-06-25T12:01:45-02:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2018-06-25T12:01:45-02:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/series/</loc>
+  </url>
+  
+</urlset>

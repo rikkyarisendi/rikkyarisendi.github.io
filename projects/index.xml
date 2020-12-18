@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Introduction</title>
+    <link>/projects/</link>
+    <description>Recent content in Projects on Introduction</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Photography</title>
+      <link>/projects/photography/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/projects/photography/</guid>
+      <description>Sometimes I take pictures This project is about the pictures I take. Sometimes, they are pictures of cats.</description>
+    </item>
+    
+    <item>
+      <title>Design</title>
+      <link>/projects/design/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/projects/design/</guid>
+      <description>Working with a variety of clients designing websites, printed material, and identities. Being a freelance designer has been very rewarding and I’ve learned a ton about communication, budgeting, and managing expectations. Although tough to balance a full time job and freelancing on the side I enjoy the challenge. Freelancing has opened many doors and I’ve met many talented goal driven people. My favorite part of freelancing is seeing clients excited about their project and wanting to continue pushing for more great design.</description>
+    </item>
+    
+    <item>
+      <title>Logo Design</title>
+      <link>/projects/writing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/projects/writing/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
