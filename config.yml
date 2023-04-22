@@ -111,14 +111,22 @@ menu:
       name: Home
       url: //
       weight: 10
+    - identifier: About
+      name: About
+      url: /about/
+      weight: 20
     - identifier: Blog
       name: Blog
       url: /blog/
-      weight: 20
-    - identifier: projects
+      weight: 30
+    - identifier: Projects
       name: Projects
       url: /projects/
-      weight: 30
+      weight: 40
+    - identifier: Docs
+      name: Docs
+      url: /docs/
+      weight: 50
 
 
 pygmentsUseClasses: true
