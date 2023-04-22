@@ -1,7 +1,6 @@
 baseURL: "https://rikkyarisendi.github.io/"
 title: Rikky Arisendi
 paginate: 5
-theme: PaperMod
 
 enableRobotsTXT: true
 buildDrafts: false
