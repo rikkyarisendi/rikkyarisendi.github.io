@@ -2,5 +2,4 @@
 title: Docs
 ---
 
-# Test Page
-ini cuma nyobain aja sih
+### **Here is some introduction text for my Docs, soon will be update**

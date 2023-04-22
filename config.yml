@@ -22,7 +22,7 @@ params:
   # author: ["Me", "You"] # multiple authors
   images: ["<link or path of image for opengraph, twitter-cards>"]
   DateFormat: "January 2, 2006"
-  defaultTheme: auto # dark, light
+  defaultTheme: dark # dark, light
   disableThemeToggle: false
 
   ShowReadingTime: true
@@ -30,16 +30,16 @@ params:
   ShareButtons: ["linkedin", "facebook", "whatsapp", "twitter", "buymeacoffee"]
   ShowPostNavLinks: true
   ShowBreadCrumbs: true
-  ShowCodeCopyButtons: false
+  ShowCodeCopyButtons: true
   ShowWordCount: false
   ShowRssButtonInSectionTermList: false
-  UseHugoToc: true
+  UseHugoToc: false
   disableSpecial1stPost: false
   disableScrollToTop: false
   comments: false
   hidemeta: false
   hideSummary: false
-  showtoc: false
+  showtoc: true
   tocopen: false
 
   assets:
@@ -53,8 +53,8 @@ params:
 
   label:
     text: "Rikky Arisendi"
-    icon: /apple-touch-icon.png
-    iconHeight: 35
+    icon: /images/fav.png
+    iconHeight: 25
 
   # profile-mode
   profileMode:
@@ -66,20 +66,26 @@ params:
     imageHeight: 250
     imageTitle: 
     buttons:
-      - name: Posts
+      - name: UI/UX
         url: "#"
-      - name: Tags
+      - name: Branding
+        url: "#"
+      - name: Digital Marketing
+        url: "#"
+      - name: Social Media Specialist
+        url: "#"
+      - name: Graphic Design
         url: "#"
 
   socialIcons:
     - name: twitter
-      url: "https://twitter.com/"
+      url: "https://twitter.com/rikkyarisendi"
     - name: instagram
-      url: "https://instagram.com/"
+      url: "https://instagram.com/rikkyarisendi"
     - name: linkedin
-      url: "https://linkedin.com/"
+      url: "https://linkedin.com/rikkyarisendi"
     - name: github
-      url: "https://github.com/"
+      url: "https://github.com/rikkyarisendi"
 
   analytics:
     google:
@@ -93,6 +99,7 @@ params:
     hidden: true # hide everywhere but not in structured data
     hiddenInList: true # hide on list pages and home
     hiddenInSingle: true # hide on single page
+    
 
   # for search
   # https://fusejs.io/api/options.html
@@ -122,18 +129,33 @@ menu:
       name: Projects
       url: /projects/
       weight: 40
-    - identifier: Docs
-      name: Docs
-      url: /docs/
-      weight: 50
+  #  - identifier: Docs
+  #    name: Docs
+  #    url: /docs/
+  #    weight: 50
+  #  - identifier: Archives
+  #    name: Archives
+  #    url: /archives/
+  #    weight: 60
 
 
 pygmentsUseClasses: true
+
+# for search using Fuse.js
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
+
+# allow HTML in MD
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+
+
+
 markup:
   highlight:
-    noClasses: false
-    # anchorLineNos: true
-    # codeFences: true
-    # guessSyntax: true
-    # lineNos: true
-    # style: monokai
+    style: monokai
