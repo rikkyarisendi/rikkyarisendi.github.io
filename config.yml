@@ -17,12 +17,12 @@ params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: Rikky Arisendi | Portofolio
   description: "Typing. . . ."
-  keywords: [Blog, Portfolio, PaperMod]
+  keywords: [Blog, Portfolio, Graphic Designer, Desain Grafis, UI UX, Branding, Visual Identity, Digital Marketing, Web Designer, Web Desain, Desainer Grafis, Web Developer, Sosial Media spesialis, Social Media Specialist]
   author: Rikky Arisendi
   # author: ["Me", "You"] # multiple authors
   images: ["<link or path of image for opengraph, twitter-cards>"]
   DateFormat: "January 2, 2006"
-  defaultTheme: dark # dark, light
+  defaultTheme: auto # dark, light
   disableThemeToggle: false
 
   ShowReadingTime: true
@@ -54,7 +54,7 @@ params:
   label:
     text: "Rikky Arisendi"
     icon: /images/fav.png
-    iconHeight: 25
+    iconHeight: 24
 
   # profile-mode
   profileMode:
