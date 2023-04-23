@@ -1,19 +1,20 @@
 :root {
     --primary-color: rgb(34, 34, 34); 
-    --secondary-color: rgb(179, 255, 0); 
-    --alternative-color: rgb(206, 205, 62); 
-    ;
+    --secondary-color: rgb(206, 205, 62); 
+    --alternative-color: rgb(219, 51, 155); 
   }
   
   h1,
   h2,
-  h3 {
+  h3,
+  h4 {
     color: var(--primary-color);
   }
   
   .dark h1,
   .dark h2,
-  .dark h3 {
+  .dark h3,
+  .dark h4 {
     color: var(--secondary-color);
   }
   
@@ -28,7 +29,8 @@
   .dark a:hover {
       color: var(--alternative-color);
     }
-  
+
+
   /* Light mode */
   header nav a {
       color: var(--primary-color); /* Change this to your desired color */
@@ -40,7 +42,7 @@
     }
     
     .dark .logo img {
-      -webkit-filter: invert(92%) sepia(86%) saturate(6387%) hue-rotate(19deg) brightness(101%) contrast(104%);
+      -webkit-filter: invert(88%) sepia(61%) saturate(552%) hue-rotate(358deg) brightness(86%) contrast(85%);
       }
 
     .dark .logo:hover img {
@@ -48,12 +50,9 @@
       }
     
       .logo:hover img {
-      -webkit-filter: invert(83%) sepia(90%) saturate(377%) hue-rotate(358deg) brightness(83%) contrast(93%);
+      -webkit-filter: invert(33%) sepia(80%) saturate(2404%) hue-rotate(301deg) brightness(87%) contrast(96%);
       }
 
-    .logo img:hover {
-      color: var(--alternative-color);
-      }
   
     
     .logo-switches #moon:hover {

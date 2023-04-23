@@ -41,7 +41,7 @@
         {{- with .buttons }}
         <div class="buttons">
             {{- range . }}
-            <a onMouseOver="this.style.color='grey'" onMouseOut="this.style.color='white'" style="font-size:medium; color:rgb(255, 255, 255)" class="button" href="{{ trim .url " " }}" rel="noopener" title="{{ .name }}">
+            <a onMouseOver="this.style.color='white'" onMouseOut="this.style.color='white'" style="font-size:small; color:rgb(255, 255, 255)" class="button" href="{{ trim .url " " }}" rel="noopener" title="{{ .name }}">
                 <span class="button-inner">
                     {{ .name }}
                     {{- if (findRE "://" .url) }}&nbsp;

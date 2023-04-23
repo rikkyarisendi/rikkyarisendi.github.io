@@ -10,7 +10,11 @@ I’ve been designing across many different mediums for over five years. My expe
 
 The skills below are ones that I have been working on for over five years. I pride myself on learning new skills but below are my core competencies that I bring to every project
 
-————————————**Skills**————————————
+**Skills**
+
+<p align="center" >Skills</p>
+
+---
 
 * Graphic Design
 * Logo Creator
@@ -23,5 +27,6 @@ The skills below are ones that I have been working on for over five years. I pri
 * Responsive Web Design
 * UI / UX Design
 
-———————————————————————————
+---
+
 
