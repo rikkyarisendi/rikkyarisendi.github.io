@@ -5,17 +5,16 @@ description:
 summary: A comprehensive overview of the latest version of Kali, covering its features, enhancements, and upgrades, to provide you with all the necessary knowledge about this version.
 tags: ["branding", "logo"]
 Section: blogs
-type: page
-topic: career
+categories: ["article"]
 
 cover:
-    image: "brandingchanel.png"
+    image: "cover2.png"
     alt: kali purple logo
     relative: false
     hidden: false
-    
+
 ShowWordCount: false
-tocopen: true
+tocopen: false
 draft: false
 ---
 

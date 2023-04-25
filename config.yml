@@ -66,15 +66,13 @@ params:
     imageHeight: 250
     imageTitle: 
     buttons:
+      - name: Graphic Design
+        url: "#"
       - name: UI/UX
         url: "#"
-      - name: Branding
+      - name: Brand Identity
         url: "#"
       - name: Digital Marketing
-        url: "#"
-      - name: Social Media Specialist
-        url: "#"
-      - name: Graphic Design
         url: "#"
 
   socialIcons:
@@ -133,10 +131,10 @@ menu:
   #    name: Docs
   #    url: /docs/
   #    weight: 50
-  #  - identifier: Archives
-  #    name: Archives
-  #    url: /archives/
-  #    weight: 60
+    - identifier: Archives
+      name: Archives
+      url: /archives/
+      weight: 60
 
 
 pygmentsUseClasses: true

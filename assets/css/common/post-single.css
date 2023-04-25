@@ -4,7 +4,7 @@
 }
 
 .post-title {
-    margin-bottom: 2px;
+    margin: 5px 0px 0px 0px;
     font-size: 35px;
 }
 
@@ -19,6 +19,7 @@
     font-size: 14px;
     display: flex;
     flex-wrap: wrap;
+    padding-top: 10px;
 }
 
 .post-meta .i18n_list li {
@@ -254,7 +255,7 @@
 }
 
 .toc {
-    margin: 0 2px 40px 2px;
+    margin: 20px 10px 20px 10px;
     border: 1px solid var(--border);
     background: var(--code-bg);
     border-radius: var(--radius);
@@ -334,7 +335,7 @@
 }
 
 .share-buttons {
-    margin: 14px 0;
+    margin: 15px;
     padding-inline-start: var(--radius);
     display: flex;
     justify-content: center;

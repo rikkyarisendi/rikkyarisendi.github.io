@@ -2,11 +2,9 @@
 date: 2020-08-13T11:58:39-05:00
 title: What’s The Difference Between Logo Design and Branding
 description: 
-summary: A comprehensive overview of the latest version of Kali, covering its features, enhancements, and upgrades, to provide you with all the necessary knowledge about this version.
+summary: There is a general perception that **“logo design”** and **“branding”** are the same thing. Sometimes these two terms are even used as synonyms. However, although they are closely related and must work together in a cohesive way, they are very different processes.
 tags: ["branding", "logo"]
 Section: blogs
-type: page
-topic: career
 
 cover:
     image: "brandingchanel.png"
