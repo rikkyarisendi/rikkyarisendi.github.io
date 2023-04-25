@@ -20,7 +20,7 @@ params:
   keywords: [Blog, Portfolio, Graphic Designer, Desain Grafis, UI UX, Branding, Visual Identity, Digital Marketing, Web Designer, Web Desain, Desainer Grafis, Web Developer, Sosial Media spesialis, Social Media Specialist]
   author: Rikky Arisendi
   # author: ["Me", "You"] # multiple authors
-  images: ["<link or path of image for opengraph, twitter-cards>"]
+  images: ["/images/profile.png"]
   DateFormat: "January 2, 2006"
   defaultTheme: auto # dark, light
   disableThemeToggle: false
