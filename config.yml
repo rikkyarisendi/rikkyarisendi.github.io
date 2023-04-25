@@ -81,7 +81,7 @@ params:
     - name: instagram
       url: "https://instagram.com/rikkyarisendi"
     - name: linkedin
-      url: "https://linkedin.com/rikkyarisendi"
+      url: "https://linkedin.com/in/rikkyarisendi"
     - name: github
       url: "https://github.com/rikkyarisendi"
 
@@ -97,6 +97,8 @@ params:
     hidden: false # hide everywhere but not in structured data
     hiddenInList: false # hide on list pages and home
     hiddenInSingle: false # hide on single page
+    responsiveImages: false
+    linkFullImages: false
     
 
   # for search
@@ -119,9 +121,9 @@ menu:
       name: About
       url: /about/
       weight: 20
-    - identifier: Blog
-      name: Blog
-      url: /blog/
+    - identifier: Articles
+      name: Articles
+      url: /articles/
       weight: 30
     - identifier: Projects
       name: Projects

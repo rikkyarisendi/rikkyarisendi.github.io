@@ -4,11 +4,11 @@ title: What’s The Difference Between Logo Design and Branding
 description: 
 summary: There is a general perception that **“logo design”** and **“branding”** are the same thing. Sometimes these two terms are even used as synonyms. However, although they are closely related and must work together in a cohesive way, they are very different processes.
 tags: ["branding", "logo"]
-Section: blogs
+Section: articles
 
 cover:
-    image: "brandingchanel.png"
-    alt: kali purple logo
+    image: "/images/branding-logo/brandingchanel.png"
+    alt: branding channel
     relative: false
     hidden: false
 ShowWordCount: false
@@ -28,7 +28,7 @@ A logo is an easily recognizable graphic symbol that identifies a company, a com
 
 #### For example the CHANEL logo
 
-![chanel logo](chanel.jpg#center)
+![chanel logo](/images/branding-logo/chanel.jpg#center)
 
 _CHANEL’s logo is one of the most famous logos amongst luxury brands. It is composed of two opposite-facing and interlocking C’s and the word CHANEL written in all caps. Sometimes the brand uses the two C’s separately (on some product packaging for example) or just the “CHANEL” part (on the website for example). As such, there is a multipurpose use of the logo across different channels._
 
@@ -38,7 +38,7 @@ A brand is the idea or image people have in mind when thinking about specific pr
 
 #### For example the CHANEL brand
 
-![chanel logo](brandingchanel.png#center)
+![chanel logo](/images/branding-logo/brandingchanel.png#center)
 
 _*After seeing the logo, and if you are a bit familiar with the brand, some images and emotions might come to your mind, and it might look something like the photo collage above. Some people might feel a sense of luxury and elegance, recall the founder of the brand as a fashion icon, think of the products (make-up, clothes, accessories), French haute couture, the high prices, or the in-store experience. The experience and perception will be different for each one of us. However, as a result of CHANEL’s branding strategy, the overall impression of the brand should be quite similar to the general population.*_ 
 
