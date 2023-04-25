@@ -35,11 +35,11 @@
 }
 
 .button:hover{
-    background-color: rgb(219, 51, 155);
+    background-color: var(--secondary)
 }
 
 .dark .button:hover{
-    background-color: rgb(206, 205, 62);
+    background-color: var(--alternative-color);
 }
 
 .button-inner {

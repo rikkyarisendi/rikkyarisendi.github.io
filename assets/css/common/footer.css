@@ -51,7 +51,6 @@
 
 .topSvg {
     width: 13px;
-    
 }
 
 .topInner {
@@ -59,12 +58,28 @@
     align-items: baseline;
     justify-items: center;
     font-weight: 500;
+    color: var(--primary);
 
 }
 
-.footer a:hover,
-.top-link:hover {
+.dark .topInner {
+    display: grid;
+    align-items: baseline;
+    justify-items: center;
+    font-weight: 500;
     color: var(--alternative-color);
+}
+
+.footer a:hover,
+.top-link:hover,
+.topInner:hover {
+    color: var(--alternative-dark-color);
+}
+
+.footer a:hover,
+.dark .top-link:hover,
+.dark .topInner:hover {
+    color: var(--alternative-dark-color);
 }
 
 .top-link:focus,

@@ -7,7 +7,7 @@ tags: ["branding", "logo"]
 Section: articles
 
 cover:
-    image: "/images/branding-logo/brandingchanel.png"
+    image: "brandingchanel.png"
     alt: branding channel
     relative: false
     hidden: false
@@ -28,7 +28,7 @@ A logo is an easily recognizable graphic symbol that identifies a company, a com
 
 #### For example the CHANEL logo
 
-![chanel logo](/images/branding-logo/chanel.jpg#center)
+![chanel logo](chanel.jpg#center)
 
 _CHANEL’s logo is one of the most famous logos amongst luxury brands. It is composed of two opposite-facing and interlocking C’s and the word CHANEL written in all caps. Sometimes the brand uses the two C’s separately (on some product packaging for example) or just the “CHANEL” part (on the website for example). As such, there is a multipurpose use of the logo across different channels._
 
@@ -38,7 +38,7 @@ A brand is the idea or image people have in mind when thinking about specific pr
 
 #### For example the CHANEL brand
 
-![chanel logo](/images/branding-logo/brandingchanel.png#center)
+![chanel logo](brandingchanel.png#center)
 
 _*After seeing the logo, and if you are a bit familiar with the brand, some images and emotions might come to your mind, and it might look something like the photo collage above. Some people might feel a sense of luxury and elegance, recall the founder of the brand as a fashion icon, think of the products (make-up, clothes, accessories), French haute couture, the high prices, or the in-store experience. The experience and perception will be different for each one of us. However, as a result of CHANEL’s branding strategy, the overall impression of the brand should be quite similar to the general population.*_ 
 
