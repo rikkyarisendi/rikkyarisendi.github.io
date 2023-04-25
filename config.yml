@@ -16,7 +16,7 @@ minify:
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: Rikky Arisendi | Portofolio
-  description: "Typing. . . ."
+  description: "Saya adalah seorang desainer grafis dan web desain yang berfokus pada digital marketing. Dalam portofolio ini, saya menampilkan karya-karya saya yang mencakup desain grafis, web desain, dan strategi digital marketing. Saya selalu berusaha memberikan solusi kreatif dan efektif untuk setiap klien dan proyek yang saya kerjakan"
   keywords: [Blog, Portfolio, Graphic Designer, Desain Grafis, UI UX, Branding, Visual Identity, Digital Marketing, Web Designer, Web Desain, Desainer Grafis, Web Developer, Sosial Media spesialis, Social Media Specialist]
   author: Rikky Arisendi
   # author: ["Me", "You"] # multiple authors
