@@ -94,7 +94,7 @@
     }
     
     .dark .social-icons a:hover {
-      color: var(--alternative-color);
+      color: var(--alternative-dark-color);
     }
   
     .tag-cloud {
