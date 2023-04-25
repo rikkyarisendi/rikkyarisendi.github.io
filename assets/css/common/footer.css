@@ -33,8 +33,8 @@
 .top-link {
     visibility: hidden;
     position: fixed;
-    bottom: 60px;
-    right: 30px;
+    bottom: 35px;
+    right: 25px;
     z-index: 99;
     background: var(--tertiary);
     width: 42px;
@@ -51,7 +51,7 @@
 
 .footer a:hover,
 .top-link:hover {
-    color: var(--primary);
+    color: var(--alternative-color);
 }
 
 .top-link:focus,

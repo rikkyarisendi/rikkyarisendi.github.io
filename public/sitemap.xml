@@ -2,19 +2,43 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://rikkyarisendi.github.io/categories/article/</loc>
+    <lastmod>2023-03-23T02:54:51+05:00</lastmod>
+  </url><url>
     <loc>https://rikkyarisendi.github.io/blog/</loc>
-    <lastmod>2020-08-13T11:58:39-05:00</lastmod>
+    <lastmod>2023-03-23T02:54:51+05:00</lastmod>
+  </url><url>
+    <loc>https://rikkyarisendi.github.io/categories/</loc>
+    <lastmod>2023-03-23T02:54:51+05:00</lastmod>
+  </url><url>
+    <loc>https://rikkyarisendi.github.io/tags/defensive-security/</loc>
+    <lastmod>2023-03-23T02:54:51+05:00</lastmod>
+  </url><url>
+    <loc>https://rikkyarisendi.github.io/tags/kali-linux-2023.1/</loc>
+    <lastmod>2023-03-23T02:54:51+05:00</lastmod>
+  </url><url>
+    <loc>https://rikkyarisendi.github.io/blog/kali-linux-2023/</loc>
+    <lastmod>2023-03-23T02:54:51+05:00</lastmod>
+  </url><url>
+    <loc>https://rikkyarisendi.github.io/tags/kali-purple/</loc>
+    <lastmod>2023-03-23T02:54:51+05:00</lastmod>
+  </url><url>
+    <loc>https://rikkyarisendi.github.io/tags/offensive-security/</loc>
+    <lastmod>2023-03-23T02:54:51+05:00</lastmod>
+  </url><url>
+    <loc>https://rikkyarisendi.github.io/tags/python-3.11/</loc>
+    <lastmod>2023-03-23T02:54:51+05:00</lastmod>
+  </url><url>
+    <loc>https://rikkyarisendi.github.io/</loc>
+    <lastmod>2023-03-23T02:54:51+05:00</lastmod>
+  </url><url>
+    <loc>https://rikkyarisendi.github.io/tags/</loc>
+    <lastmod>2023-03-23T02:54:51+05:00</lastmod>
   </url><url>
     <loc>https://rikkyarisendi.github.io/tags/branding/</loc>
     <lastmod>2020-08-13T11:58:39-05:00</lastmod>
   </url><url>
     <loc>https://rikkyarisendi.github.io/tags/logo/</loc>
-    <lastmod>2020-08-13T11:58:39-05:00</lastmod>
-  </url><url>
-    <loc>https://rikkyarisendi.github.io/</loc>
-    <lastmod>2020-08-13T11:58:39-05:00</lastmod>
-  </url><url>
-    <loc>https://rikkyarisendi.github.io/tags/</loc>
     <lastmod>2020-08-13T11:58:39-05:00</lastmod>
   </url><url>
     <loc>https://rikkyarisendi.github.io/blog/branding-logo/</loc>
@@ -23,8 +47,6 @@
     <loc>https://rikkyarisendi.github.io/about/</loc>
   </url><url>
     <loc>https://rikkyarisendi.github.io/archives/</loc>
-  </url><url>
-    <loc>https://rikkyarisendi.github.io/categories/</loc>
   </url><url>
     <loc>https://rikkyarisendi.github.io/docs/</loc>
   </url><url>

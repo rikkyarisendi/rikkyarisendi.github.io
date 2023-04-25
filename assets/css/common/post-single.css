@@ -5,7 +5,7 @@
 
 .post-title {
     margin-bottom: 2px;
-    font-size: 40px;
+    font-size: 35px;
 }
 
 .post-description {
@@ -45,7 +45,7 @@
 
 .post-content h1 {
     margin: 40px auto 32px;
-    font-size: 40px;
+    font-size: 35px;
 }
 
 .post-content h2 {
@@ -263,6 +263,7 @@
 
 .dark .toc {
     background: var(--entry);
+    color: rgb(196, 196, 197);
 }
 
 .toc details summary {
@@ -312,17 +313,24 @@
 
 .post-tags a {
     display: block;
-    padding-inline-start: 14px;
-    padding-inline-end: 14px;
+    padding-inline-start: 10px;
+    padding-inline-end: 10px;
     color: var(--secondary);
-    font-size: 14px;
-    line-height: 34px;
+    font-size: 12px;
+    line-height: 20px;
     background: var(--code-bg);
 }
 
 .post-tags a:hover,
 .paginav a:hover {
     background: var(--border);
+    color: rgb(255, 255, 255);
+}
+
+.dark .post-tags a:hover,
+.paginav a:hover {
+    background: var(--border);
+    color: rgb(255, 255, 255);
 }
 
 .share-buttons {
