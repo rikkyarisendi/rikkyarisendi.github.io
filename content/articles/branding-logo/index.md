@@ -9,7 +9,7 @@ Section: articles
 cover:
     image: "brandingchanel.png"
     alt: branding channel
-    relative: false
+    relative: true
     hidden: false
 ShowWordCount: false
 tocopen: true

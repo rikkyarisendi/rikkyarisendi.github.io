@@ -10,7 +10,7 @@ categories: ["article"]
 cover:
     image: "cover2.png"
     alt: kali purple logo
-    relative: false
+    relative: true
     hidden: false
 
 ShowWordCount: false
