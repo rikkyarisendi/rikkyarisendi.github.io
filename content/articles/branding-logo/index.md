@@ -5,14 +5,16 @@ description:
 summary: There is a general perception that **“logo design”** and **“branding”** are the same thing. Sometimes these two terms are even used as synonyms. However, although they are closely related and must work together in a cohesive way, they are very different processes.
 tags: ["branding", "logo"]
 Section: articles
+categories: ["article"]
 
 cover:
     image: "brandingchanel.png"
     alt: branding channel
     relative: true
     hidden: false
+
 ShowWordCount: false
-tocopen: true
+tocopen: false
 draft: false
 ---
 
