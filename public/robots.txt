@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://rikkyarisendi.github.io/sitemap.xml
+Sitemap: https://rikkyarisendi.com/sitemap.xml

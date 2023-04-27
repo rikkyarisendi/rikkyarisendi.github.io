@@ -1,7 +1,7 @@
 :root {
     --primary-color: rgb(34, 34, 34); 
-    --secondary-color: rgb(206, 205, 62); 
-    --alternative-color: rgb(206, 205, 62);
+    --secondary-color: #d9ff00;
+    --alternative-color: #FF00D9;
     --alternative-dark-color: rgb(250, 250, 250); 
   }
   
@@ -28,7 +28,7 @@
       color: var(--alternative-color);
     }
   .dark a:hover {
-      color: var(--alternative-dark-color);
+      color: var(--alternative-color);
     }
   
 
@@ -45,15 +45,15 @@
     }
     
     .dark .logo img {
-      -webkit-filter: invert(88%) sepia(61%) saturate(552%) hue-rotate(358deg) brightness(86%) contrast(85%);
+      -webkit-filter: invert(91%) sepia(82%) saturate(7046%) hue-rotate(12deg) brightness(103%) contrast(105%);
       }
 
     .dark .logo a:hover img {
-      -webkit-filter: invert(100%) sepia(0%) saturate(7500%) hue-rotate(32deg) brightness(101%) contrast(106%);
+      -webkit-filter: invert(17%) sepia(100%) saturate(2942%) hue-rotate(299deg) brightness(115%) contrast(124%);
       }
     
       .logo a:hover img {
-      -webkit-filter: invert(88%) sepia(61%) saturate(552%) hue-rotate(358deg) brightness(86%) contrast(85%);
+      -webkit-filter: invert(17%) sepia(100%) saturate(2942%) hue-rotate(299deg) brightness(115%) contrast(124%);
       }
 
   
@@ -63,7 +63,7 @@
     }
 
     .dark .logo-switches #sun:hover {
-      color: var(--alternative-dark-color);
+      color: var(--alternative-color);
     }
 
     .dark .logo-switches #sun {
@@ -75,7 +75,7 @@
     }
 
     .dark #menu-trigger:hover {
-      color: var(--alternative-dark-color);
+      color: var(--alternative-color);
     }
 
     .dark #menu-trigger {
@@ -94,7 +94,7 @@
     }
     
     .dark .social-icons a:hover {
-      color: var(--alternative-dark-color);
+      color: var(--alternative-color);
     }
   
     .tag-cloud {
@@ -169,9 +169,12 @@
         z-index: 5;
         margin-bottom: var(--gap);
         padding: var(--gap);
-        background: var(--code-bg);
+        background: rgba(255, 255, 255, 0.14);
+        box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+        backdrop-filter: blur(4.5px);
+        -webkit-backdrop-filter: blur(4.5px);
         border-radius: var(--radius);
-        border: 1px solid var(--tertiary);
+        border: 1px solid rgba(255, 255, 255, 0.068);
         line-height: 2;
         margin: calc(var(--header-height) - var(--gap)) var(--gap);
         display: block;

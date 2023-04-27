@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Categories on Rikky Arisendi</title>
-    <link>https://rikkyarisendi.github.io/categories/</link>
+    <link>https://rikkyarisendi.com/categories/</link>
     <description>Recent content in Categories on Rikky Arisendi</description>
     <image>
       <title>Rikky Arisendi</title>
-      <url>https://rikkyarisendi.github.io/images/profile.png</url>
-      <link>https://rikkyarisendi.github.io/images/profile.png</link>
+      <url>https://rikkyarisendi.com/images/profile.png</url>
+      <link>https://rikkyarisendi.com/images/profile.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 23 Mar 2023 02:54:51 +0500</lastBuildDate><atom:link href="https://rikkyarisendi.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 23 Mar 2023 02:54:51 +0500</lastBuildDate><atom:link href="https://rikkyarisendi.com/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>article</title>
-      <link>https://rikkyarisendi.github.io/categories/article/</link>
+      <link>https://rikkyarisendi.com/categories/article/</link>
       <pubDate>Thu, 23 Mar 2023 02:54:51 +0500</pubDate>
       
-      <guid>https://rikkyarisendi.github.io/categories/article/</guid>
+      <guid>https://rikkyarisendi.com/categories/article/</guid>
       <description></description>
     </item>
     

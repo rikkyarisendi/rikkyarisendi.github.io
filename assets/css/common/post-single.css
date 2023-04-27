@@ -5,12 +5,21 @@
 
 .post-title {
     margin: 5px 0px 0px 0px;
-    font-size: 35px;
+    font-size: 30px;
 }
 
 .post-description {
     margin-top: 10px;
     margin-bottom: 5px;
+}
+
+.post-tags-meta{
+    color: var(--secondary); 
+    opacity: 0.6;
+}
+
+.post-tags-meta:hover{
+    color: var(--alternative-color);
 }
 
 .post-meta,
@@ -46,12 +55,12 @@
 
 .post-content h1 {
     margin: 40px auto 32px;
-    font-size: 35px;
+    font-size: 30px;
 }
 
 .post-content h2 {
     margin: 32px auto 24px;
-    font-size: 32px;
+    font-size: 28px;
 }
 
 .post-content h3 {
@@ -256,15 +265,19 @@
 
 .toc {
    margin: 20px 10px 20px 10px;
-    border: 1px solid var(--border);
-    background: var(--code-bg);
+   background: var(--entry);
+        box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+        backdrop-filter: blur(4.5px);
+        -webkit-backdrop-filter: blur(4.5px);
     border-radius: var(--radius);
+    border: 1px solid rgba(255, 255, 255, 0.068);
     padding: 0.4em;
 }
 
 .dark .toc {
     background: var(--entry);
     color: rgb(196, 196, 197);
+    border: 1px solid rgba(255, 255, 255, 0.068);
 }
 
 .toc details summary {
@@ -305,30 +318,37 @@
 }
 
 .post-tags a {
-    border-radius: var(--radius);
-    background: var(--code-bg);
-    border: 1px solid var(--border);
-}
-
-.post-tags a {
     display: block;
     padding-inline-start: 10px;
     padding-inline-end: 10px;
     color: var(--secondary);
     font-size: 12px;
     line-height: 20px;
-    background: var(--code-bg);
+    background: var(--entry);
+    border-radius:  var(--radius);
+    border: 1px solid var(--border);
+}
+.dark .post-tags a {
+    display: block;
+    padding-inline-start: 10px;
+    padding-inline-end: 10px;
+    color: var(--primary);
+    font-size: 12px;
+    line-height: 20px;
+    background: var(--entry);
+    border-radius:  var(--radius);
+    border: 1px solid var(--border);
 }
 
 .post-tags a:hover,
 .paginav a:hover {
-    background: var(--border);
+    background: var(--alternative-color);
     color: rgb(255, 255, 255);
 }
 
 .dark .post-tags a:hover,
 .paginav a:hover {
-    background: var(--border);
+    background: var(--alternative-color);
     color: rgb(255, 255, 255);
 }
 
@@ -367,13 +387,23 @@ h6:hover .anchor {
 }
 
 .paginav a {
-    color: var(--primary);
+    color: var(--alternative-dark-color);
     font-size: 13px;
     line-height: 27px;
-    background: var(--code-bg);
+    background: var(--tertiary);
     border: 1px solid var(--border);
     border-radius: calc(36px / 2);
     padding: 0 16px;
+}
+
+.dark .paginav a {
+    color: var(--theme);
+    background: var(--secondary-color);
+}
+
+.dark .paginav a:hover {
+    color: var(--alternative-dark-color);
+    background: var(--alternative-color);
 }
 
 

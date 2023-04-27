@@ -27,9 +27,16 @@
 }
 
 .archive-entry {
+    transition: margin-start 750ms;
+    will-change: margin-start;
     position: relative;
     padding: 5px;
     margin: 10px 0;
+}
+
+.archive-entry:hover, .archive-entry:focus {
+    transition: transform 750ms;
+    transform: translateX(10px);
 }
 
 .archive-entry-title {

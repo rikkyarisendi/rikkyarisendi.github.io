@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Projects on Rikky Arisendi</title>
-    <link>https://rikkyarisendi.github.io/projects/</link>
+    <link>https://rikkyarisendi.com/projects/</link>
     <description>Recent content in Projects on Rikky Arisendi</description>
     <image>
       <title>Rikky Arisendi</title>
-      <url>https://rikkyarisendi.github.io/images/profile.png</url>
-      <link>https://rikkyarisendi.github.io/images/profile.png</link>
+      <url>https://rikkyarisendi.com/images/profile.png</url>
+      <link>https://rikkyarisendi.com/images/profile.png</link>
     </image>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="https://rikkyarisendi.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://rikkyarisendi.com/projects/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
