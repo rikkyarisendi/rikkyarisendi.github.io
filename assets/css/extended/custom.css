@@ -170,11 +170,11 @@
         margin-bottom: var(--gap);
         padding: var(--gap);
         background: rgba(255, 255, 255, 0.14);
-        box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+        box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
         backdrop-filter: blur(4.5px);
         -webkit-backdrop-filter: blur(4.5px);
         border-radius: var(--radius);
-        border: 1px solid rgba(255, 255, 255, 0.068);
+        border: 1px solid rgba(85, 85, 85, 0.05);
         line-height: 2;
         margin: calc(var(--header-height) - var(--gap)) var(--gap);
         display: block;
