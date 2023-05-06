@@ -8,7 +8,7 @@ Section: blogs
 categories: ["article"]
 
 cover:
-    image: "cover2.png"
+    image: "cover.png"
     alt: kali purple logo
     relative: true
     hidden: false
